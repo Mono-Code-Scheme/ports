@@ -1,4 +1,14 @@
-For now there are no ports but here's a quick preview for what's to come:
+For now there are only a few ports but it will hopefully grow with time 😸
+
+Palette Languages
+- 🦀 [Rust](https://github.com/Mono-Code-Scheme/scheme-rs)
+
+Terminals
+- 💻 [Konsole](https://github.com/Mono-Code-Scheme/konsole)
+
+Code Editors
+- For now there isn't any but neovim will be the first to have a port. For now here's a basic preview of what's to come.
+
 
 # 🐈‍⬛ Panther
 ![Screenshot_20250426_125511](https://github.com/user-attachments/assets/33512cc6-e892-4f9f-8995-1775efae7426)
