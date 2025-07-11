@@ -5,12 +5,14 @@ Palette Languages
 
 Terminals
 - 💻 [Konsole](https://github.com/Mono-Code-Scheme/konsole)
+- 🪟 [Windows Terminal](https://github.com/Mono-Code-Scheme/windows-terminal)
 
-Desktop Environments
+Desktop
 - 🐉 [KDE](https://github.com/Mono-Code-Scheme/kde)
+- 🔒 [SDDM](https://github.com/Mono-Code-Scheme/sddm)
 
 Code Editors
-- For now there isn't any but neovim will be the first to have a port. For now here's a basic preview of what's to come
+- For now there isn't any but neovim will be the first to have an official port. For now here's a basic preview of what's to come
 
 
 # 🐈‍⬛ Panther
