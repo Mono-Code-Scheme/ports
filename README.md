@@ -1,6 +1,6 @@
 For now there are only a few ports but it will hopefully grow with time 😸
 
-Palette Languages
+Programming
 - 🦀 [Rust](https://github.com/Mono-Code-Scheme/scheme-rs)
 
 Terminals
