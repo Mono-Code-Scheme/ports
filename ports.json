@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Scheme RS",
+    "url": "https://github.com/Mono-Code-Scheme/scheme-rs",
+    "tags": [
+      "rust",
+      "scheme"
+    ]
+  },
+  {
+    "name": "Scheme KT",
+    "url": "https://github.com/Mono-Code-Scheme/scheme-kt",
+    "tags": [
+      "kotlin",
+      "scheme"
+    ]
+  },
+  {
+    "name": "Konsole",
+    "url": "https://github.com/Mono-Code-Scheme/konsole",
+    "tags": [
+      "terminal",
+      "linux"
+    ]
+  },
+  {
+    "name": "Windows Terminal",
+    "url": "https://github.com/Mono-Code-Scheme/windows-terminal",
+    "tags": [
+      "terminal",
+      "windows"
+    ]
+  },
+  {
+    "name": "KDE",
+    "url": "https://github.com/Mono-Code-Scheme/kde",
+    "tags": [
+      "linux",
+      "desktop-environment"
+    ]
+  },
+  {
+    "name": "SDDM",
+    "url": "https://github.com/Mono-Code-Scheme/sddm",
+    "tags": [
+      "linux",
+      "display-manager"
+    ]
+  },
+  {
+    "name": "Compose Material",
+    "url": "https://github.com/Mono-Code-Scheme/compose-material",
+    "tags": [
+      "android",
+	  "jetpack-compose"
+    ]
+  }
+]
