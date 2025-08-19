@@ -52,7 +52,17 @@
     "url": "https://github.com/Mono-Code-Scheme/compose-material",
     "tags": [
       "android",
-	  "jetpack-compose"
+      "jetpack-compose"
+    ]
+  },
+  {
+    "name": "Firefox",
+    "url": "https://github.com/Mono-Code-Scheme/firefox",
+    "tags": [
+      "browser",
+      "linux",
+      "windows",
+      "mac"
     ]
   }
 ]
