@@ -15,5 +15,8 @@ Desktop
 Android
 - 📱 [Compose Material](https://github.com/Mono-Code-Scheme/compose-material)
 
+Browsers
+- 🦊 [Firefox](https://github.com/Mono-Code-Scheme/firefox)
+
 Code Editors
 - Currently there isn't any editor port. The neovim one is still under development
